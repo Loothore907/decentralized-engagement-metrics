@@ -99,21 +99,6 @@ python fetch/fetch_twitter_data.py
 python fetch/fetch_general_tweets.py
 ```
 
-### Generating Synthetic Responses
-
-To generate synthetic responses, run:
-
-```bash
-python scripts/generate_responses.py
-```
-
-### Labeling Data
-
-To label the data, run:
-
-```bash
-python scripts/label_data.py
-```
 
 ### Running the Entire Workflow
 
@@ -139,7 +124,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact Information
 
-Your Name - [your.email@example.com](mailto:your.email@example.com)
+- **Twitter**: [@emfr2u](https://twitter.com/emfr2u)
+- **Discord**: loothore (loot)
+- **Medium**: [Loothore907](https://medium.com/@Loothore907)
 
 ## Acknowledgements
 
